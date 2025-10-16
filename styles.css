@@ -1,0 +1,11 @@
+.mensaje-correcto{
+    color: green;
+    size: 20px;
+    
+}
+
+.mensaje-error{
+     color: red;
+    size: 20px;
+   
+}
